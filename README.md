@@ -163,27 +163,6 @@ These models were explored to understand and compare different approaches for MR
 * Jupyter Notebook
 
 ---
-
-## 📁 Repository Structure
-
-```text
-MRI-Brain-Tumor-Detection/
-│
-├── README.md
-├── MRI_Brain_Tumor_Detection.ipynb
-├── requirements.txt
-│
-└── results/
-    ├── accuracy_graph.png
-    ├── loss_graph.png
-    ├── confusion_matrix.png
-    └── sample_predictions.png
-```
-
-> The `results` folder can be added if you have generated these visualizations during model training and evaluation.
-
----
-
 ## 🚀 How to Run the Project
 
 ### Option 1: Google Colab
